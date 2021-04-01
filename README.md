@@ -1,4 +1,4 @@
-# Acessing-DB2-on-Cloud-Using-Python
+# Accessing-DB2-on-Cloud-Using-Python
 
 ## Objectives
 
